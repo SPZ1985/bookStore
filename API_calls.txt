@@ -1,0 +1,6 @@
+http://localhost:3001/
+http://localhost:3001/api/genres
+
+http://localhost:3001/api/books
+
+http://localhost:3001/api/books/59ec5351cb4a1c1f7c5b8b63
